@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloAndoird!</string>
+    <string name="app_name">Hello, Andoird</string>
+    <string name="permdesc_Internet">Aplikacia moze pouzivat Internet.</string>
+    <string name="permlbl_Internet">Pristup na net</string>
+    <string name="permdesc_Netstate">Aplikacia moze menit Netstate</string>
+    <string name="permlbl_Netstate">Zmena Netstate</string>
+
+</resources>
